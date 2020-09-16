@@ -23,5 +23,4 @@ firefox &
                    drwxr-xr-x 2 user user 4096 Mar  5  2018  Templates
                    drwxr-xr-x 2 user user 4096 Mar  5  2018  Videos
                    drwxrwxr-x 3 user user 4096 Mar 26  2019 'VirtualBox VMs'
-
     history
