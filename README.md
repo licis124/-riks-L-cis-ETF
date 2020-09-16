@@ -1,2 +1,2 @@
-# -riks-L-cis-ETF
+# Eriks Līcis-ETF
 Datormācība (pamatkurss)
