@@ -50,7 +50,7 @@ whereis ls
        СОздание скрипта 
        nano 
   ./my_first_shell_script.sh
-   chmod 744   my_first_shell_script.sh
+   chmod 744   my_first_shell_script.sh      задать файлу( в этом случае скрипту) действие выполнения( существует 3 вида операций: чтение, запись, выполнение)
   whereis my_shell_script.sh
  ./my_first_shell_script.sh
   ls -lt
