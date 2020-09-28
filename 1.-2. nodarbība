@@ -62,6 +62,7 @@ whereis ls
   echo $PATH
   my_first_shell_script.sh 
 
+echo $?    - ja rezultats 0 viss ir labi, ja raksta 126 vai citu skaitli (koda kluda)
     
     
     
