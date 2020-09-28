@@ -46,7 +46,7 @@ cp ../Desktop       -copy
 tree  
 rm  (название файла)    удаляет именно текстовый файл   можно добавить *тег каких то файлов либо окончание которое ты добавил: например .txt  * 
 whereis ls
-   echo $PATH
+   echo $PATH  - noteic mapes direktoriju lokaciju, kur ir izpildamais fails
        СОздание скрипта 
        nano 
   ./my_first_shell_script.sh
