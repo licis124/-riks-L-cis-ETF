@@ -109,6 +109,7 @@ gcc HelloWorld.c
 ./a.out
 gcc HelloWorld.c -o Hello.out
 ./ Hello.out
+ls -l tests.out
 
 
 
