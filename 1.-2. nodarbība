@@ -100,43 +100,15 @@ ls -lt
 cp first.c HelloWorld.c
 nano HelloWorld.c 
 gcc HelloWorld.c 
-nano HelloWorld.c 
-gcc HelloWorld.c 
-nano HelloWorld.c 
-gcc HelloWorld.c 
-nano HelloWorld.c 
-gcc HelloWorld.c 
-nano HelloWorld.c 
-gcc HelloWorld.c 
-nano HelloWorld.c 
-gcc HelloWorld.c 
-nano HelloWorld.c 
-gcc HelloWorld.c 
-ls -lt
-nano HelloWorld.c 
-gcc HelloWorld.c 
 ls -lt
 cat HelloWorld.c 
 ./a.out 
-nano HelloWorld.c 
-gcc HelloWorld.c 
-./a.out
-echo $0
-./a.out
-echo $?
-nano HelloWorld.c 
-gcc HelloWorld.c 
-nano HelloWorld.c 
-gcc HelloWorld.c 
-./a.out
-ls -lt
-nano HelloWorld.c 
-gcc HelloWorld.c 
-./a.out
 echo $?
 nano HelloWorld.c 
 gcc HelloWorld.c 
 ./a.out
+gcc HelloWorld.c -o Hello.out
+./ Hello.out
 
 
 
