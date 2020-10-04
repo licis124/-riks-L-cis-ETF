@@ -145,6 +145,11 @@ hex to dec  :
 = 11*1 +   7*16^1 = 123 OK
 
 dec to oct 
+69 - oct
+base:10   base:8
+69:8= 8 (4)
+8:8 = 1 (0)
+1:8 = 0  (8)
 oct to dec
 
 dec to hex:
