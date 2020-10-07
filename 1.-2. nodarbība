@@ -66,95 +66,50 @@ echo $?    - ja rezultats 0 viss ir labi, ja raksta 126 vai citu skaitli (koda k
     
     
     28_09
-    <pre> 3  firefox &amp;
-    4  echo $PATH
-    5  nano
-    6  pwd
-    7  git clone
-    8  firefox &amp;
-    9  git clone https:/github.com/licis124/-riks-L-cis-ETF
-   10  git clone https://github.com/licis124/-riks-L-cis-ETF/commit/34e5818387c4bb5d93e6e42c1b3bf38f540de21a
-   11  ls -lt
-   12  git clone https://github.com/licis124
-   13  git clone https://github.com/licis124/-riks-L-cis-ETF/commit
-   14  git clone https://github.com/licis124/-riks-L-cis-ETF
-   15  ls -lt
-   16  cd -riks-L-cis-ETF/
-   17  pwd
-   18* cd ./
-   19  cd ./-riks-L-cis-ETF/
-   20  pwd
-   21  nano
-   22  nano first.c
-   23  ls -lt
-   24  gcc first.c  
-   25  echo $?
-   26  ls -lt
-   27  ./a.out 
-   28  echo $?
-   29  firs.c
-   30  cat first.c 
-   31  cp first.c  second.c
-   32  ls -lt
-   33  nano second.c 
-   34  ls -lt
-   35  gcc second.c 
-   36  ls -lt
-   37  cat second.c 
-   38  gcc first.c -o first.out
-   39  ls -lt
-   40  gcc second.c -o second.out
-   41  ls -lt
-   42  rm a.out
-   43  ls -lt
-   44  cp first.c first.error1.c
-   45  nano first.error1.c 
-   46  gcc first.error1.c 
-   47  ls -lt
-   48  cp  first.error1.c second.error1.c
-   49  nano second.error1.c 
-   50  gcc second.error1.c 
-   51  ls -lt
-   52  cp first.c HelloWorld.c
-   53  nano HelloWorld.c 
-   54  gcc HelloWorld.c 
-   55  nano HelloWorld.c 
-   56  gcc HelloWorld.c 
-   57  nano HelloWorld.c 
-   58  gcc HelloWorld.c 
-   59  nano HelloWorld.c 
-   60  gcc HelloWorld.c 
-   61  nano HelloWorld.c 
-   62  gcc HelloWorld.c 
-   63  nano HelloWorld.c 
-   64  gcc HelloWorld.c 
-   65  nano HelloWorld.c 
-   66  gcc HelloWorld.c 
-   67  ls -lt
-   68  nano HelloWorld.c 
-   69  gcc HelloWorld.c 
-   70  ls -lt
-   71  cat HelloWorld.c 
-   72  ./a.out 
-   73  nano HelloWorld.c 
-   74  gcc HelloWorld.c 
-   75  ./a.out
-   76  echo $0
-   77  ./a.out
-   78  echo $?
-   79  nano HelloWorld.c 
-   80  gcc HelloWorld.c 
-   81  nano HelloWorld.c 
-   82  gcc HelloWorld.c 
-   83  ./a.out
-   84  ls -lt
-   85  nano HelloWorld.c 
-   86  gcc HelloWorld.c 
-   87  ./a.out
-   88  echo $?
-   89  nano HelloWorld.c 
-   90  gcc HelloWorld.c 
-   91  ./a.out
-   92  pwd
-   93  history
-</pre>
+echo $PATH
+git clone https:/github.com/licis124/-riks-L-cis-ETF
+cd ./-riks-L-cis-ETF/
+nano first.c
+ls -lt
+gcc first.c  
+echo $?
+ls -lt
+./a.out 
+echo $?
+cat first.c 
+ls -lt
+nano second.c 
+ls -lt
+gcc second.c 
+ls -lt
+cat second.c 
+gcc first.c -o first.out
+ls -lt
+gcc second.c -o second.out
+ls -lt
+rm a.out
+ls -lt
+cp first.c first.error1.c
+ano first.error1.c 
+gcc first.error1.c 
+ls -lt
+cp  first.error1.c second.error1.c
+nano second.error1.c 
+gcc second.error1.c 
+ls -lt
+cp first.c HelloWorld.c
+nano HelloWorld.c 
+gcc HelloWorld.c 
+ls -lt
+cat HelloWorld.c 
+./a.out 
+echo $?
+nano HelloWorld.c 
+gcc HelloWorld.c 
+./a.out
+gcc HelloWorld.c -o Hello.out
+./ Hello.out
+ls -l tests.out
+
+
+

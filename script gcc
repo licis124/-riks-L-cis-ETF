@@ -1,0 +1,4 @@
+gcc config --global user licis2001@gmail.com
+gcc add .
+gcc commit -m "nosaukums"
+gcc push urigin master
