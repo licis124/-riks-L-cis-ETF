@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+{
+    double a;
+    double b;
+ 
+    printf("Cienijamais lietotajs, ludzu ievadi pirmo skaitli 400 000 :");
+scanf("%lf",&a); 
+    printf("Cienijamais lietotajs, ludzu ievadi otro skaitli 100 000 :");
+scanf("%lf",&b);
+double c= a*b;
+     printf("400 000 * 100 000 :%lf",c);
+    return 0;
+}
