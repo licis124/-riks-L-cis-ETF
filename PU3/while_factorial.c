@@ -22,7 +22,7 @@ int main(void) {
   }
 
   if(a == 'c'){
-     char n,i,f;
+    unsigned char n,i,f;
     f=i=1;
     printf("Ievadiet skaitli no kura gribat dabūt faktoriālu ar datu tipu char: ");
     scanf("%d",&n);
