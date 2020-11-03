@@ -18,7 +18,7 @@ int main(void) {
   }
 
   if(a == 'c'){
-      char c, n, f = 1;
+    unsigned  char c, n, f = 1;
   printf("Ievadi skaitli no kuras gribi dabūt faktoriālu : \n");
   scanf("%d", &n);
   for (c = 1; c <= n; c++)
