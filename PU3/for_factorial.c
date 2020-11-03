@@ -3,7 +3,7 @@
 int main(void) {
   char a;
   printf("Ievadi burtu ar kuru datu tipu tu gribi strādāt : int(i), char(c), long(l) : ");
-  scanf("%c",&a);
+  scanf("%s",&a);
   if(a == 'i'){
        int c, n, f = 1;
   printf("Ievadi skaitli no kuras gribi dabūt faktoriālu : \n");
