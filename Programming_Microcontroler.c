@@ -8,9 +8,9 @@ int main(void)
   WDTCTL = WDTPW + WDTHOLD; // Stop watch dog time
   P1DIR |= 0x41; // var rakstit arī 0b00000001
   for(;;){
-  P1OUT |= 0X01;
+  P1OUT |= 0X01;// lai iedegas diode
   delay();
-  P1OUT &= ~0X01;
+  P1OUT &= ~0X01;// izslēgt
   delay();
 }
 }
